@@ -1,0 +1,136 @@
+{
+ "versao": 1,
+ "nome": "Teste do Estúdio 3D - rápido",
+ "duracao": 6,
+ "audio": null,
+ "elenco": [
+  {
+   "uid": "rato_t1",
+   "boneco": "rato",
+   "nome": "Rato"
+  },
+  {
+   "uid": "mulher_t1",
+   "boneco": "mulher",
+   "nome": "Mulher"
+  }
+ ],
+ "marcas": {
+  "rato_t1": [
+   {
+    "t": 0,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 0,
+    "mov": {}
+   },
+   {
+    "t": 1,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 0,
+    "mov": {
+     "braco_d_levanta": 100
+    }
+   },
+   {
+    "t": 1.4,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 0,
+    "mov": {
+     "braco_d_levanta": 100,
+     "cabeca_inclina": 15
+    }
+   },
+   {
+    "t": 1.8,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 0,
+    "mov": {
+     "braco_d_levanta": 70,
+     "cabeca_inclina": -10
+    }
+   },
+   {
+    "t": 2.2,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 0,
+    "mov": {
+     "braco_d_levanta": 100,
+     "cabeca_inclina": 15
+    }
+   },
+   {
+    "t": 3,
+    "x": -1.5,
+    "y": 0.8,
+    "z": 0,
+    "giro": 20,
+    "mov": {
+     "cabeca_vira": -30
+    }
+   }
+  ],
+  "mulher_t1": [
+   {
+    "t": 0,
+    "x": 9,
+    "y": 1,
+    "z": 0,
+    "giro": -90,
+    "mov": {}
+   },
+   {
+    "t": 3,
+    "x": 1.8,
+    "y": 1,
+    "z": 0,
+    "giro": -90,
+    "mov": {}
+   },
+   {
+    "t": 3.3,
+    "x": 1.8,
+    "y": 1,
+    "z": 0,
+    "giro": -20,
+    "mov": {}
+   },
+   {
+    "t": 4.2,
+    "x": 1.8,
+    "y": 1,
+    "z": 0,
+    "giro": -20,
+    "mov": {
+     "braco_d_levanta": 75
+    }
+   },
+   {
+    "t": 5.5,
+    "x": 1.8,
+    "y": 1,
+    "z": 0,
+    "giro": -20,
+    "mov": {
+     "braco_d_levanta": 75
+    }
+   }
+  ]
+ },
+ "falas": [
+  {
+   "uid": "mulher_t1",
+   "ini": 3.4,
+   "fim": 5.4
+  }
+ ]
+}
