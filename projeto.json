@@ -1,0 +1,294 @@
+{
+ "versao": 1,
+ "nome": "Turminha 3D - comparação (cena 1)",
+ "cenario": "fazenda",
+ "hora": "dia",
+ "duracao": 23.5,
+ "audio": "audio.mp3",
+ "elenco": [
+  {
+   "uid": "timbu",
+   "boneco": "timbu",
+   "nome": "Timbu"
+  },
+  {
+   "uid": "poe",
+   "boneco": "poe_mesa",
+   "nome": "Põe-Mesa"
+  }
+ ],
+ "marcas": {
+  "timbu": [
+   {
+    "t": 0,
+    "x": -4.2,
+    "y": 0.3,
+    "z": 0,
+    "giro": 90,
+    "mov": {}
+   },
+   {
+    "t": 2.6,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 90,
+    "mov": {}
+   },
+   {
+    "t": 3,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 5.4,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 5.65,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0.3,
+    "giro": 35,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_e_levanta": 50
+    },
+    "semPassos": true
+   },
+   {
+    "t": 6,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {},
+    "semPassos": true
+   },
+   {
+    "t": 6.6,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {
+     "braco_d_levanta": 35,
+     "cabeca_inclina": 10
+    }
+   },
+   {
+    "t": 7.8,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 12.2,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 12.6,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {
+     "braco_d_levanta": 45,
+     "cabeca_inclina": -12
+    }
+   },
+   {
+    "t": 15.8,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 16.3,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 20,
+    "mov": {
+     "cabeca_vira": -20
+    }
+   },
+   {
+    "t": 20.2,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 20,
+    "mov": {
+     "cabeca_vira": -20
+    }
+   },
+   {
+    "t": 20.6,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 30,
+    "mov": {
+     "cabeca_sim": 18,
+     "cabeca_inclina": 10
+    }
+   },
+   {
+    "t": 23.5,
+    "x": -1.3,
+    "y": 0.3,
+    "z": 0,
+    "giro": 30,
+    "mov": {
+     "cabeca_sim": 18,
+     "cabeca_inclina": 10
+    }
+   }
+  ],
+  "poe": [
+   {
+    "t": 0,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {}
+   },
+   {
+    "t": 8.2,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {}
+   },
+   {
+    "t": 8.6,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -35,
+    "mov": {
+     "braco_e_levanta": 55,
+     "braco_e_frente": 35
+    }
+   },
+   {
+    "t": 11.6,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -35,
+    "mov": {
+     "braco_e_levanta": 55,
+     "braco_e_frente": 35
+    }
+   },
+   {
+    "t": 12,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {}
+   },
+   {
+    "t": 16.3,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {}
+   },
+   {
+    "t": 16.7,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {
+     "braco_d_levanta": 70,
+     "cabeca_inclina": -12
+    }
+   },
+   {
+    "t": 19.8,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {
+     "braco_d_levanta": 70,
+     "cabeca_inclina": -12
+    }
+   },
+   {
+    "t": 20.2,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {
+     "cabeca_sim": -15,
+     "braco_e_levanta": 30,
+     "braco_e_frente": 60
+    }
+   },
+   {
+    "t": 23.5,
+    "x": 1.6,
+    "y": 0.6,
+    "z": 0,
+    "giro": -30,
+    "mov": {
+     "cabeca_sim": -15,
+     "braco_e_levanta": 30,
+     "braco_e_frente": 60
+    }
+   }
+  ]
+ },
+ "falas": [
+  {
+   "uid": "timbu",
+   "ini": 5.6,
+   "fim": 7.9
+  },
+  {
+   "uid": "poe",
+   "ini": 8.3,
+   "fim": 11.7
+  },
+  {
+   "uid": "timbu",
+   "ini": 12.2,
+   "fim": 15.9
+  },
+  {
+   "uid": "poe",
+   "ini": 16.4,
+   "fim": 19.9
+  },
+  {
+   "uid": "timbu",
+   "ini": 20.4,
+   "fim": 22.8
+  }
+ ]
+}
