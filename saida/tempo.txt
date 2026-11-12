@@ -1,0 +1,8 @@
+pedaço 1/8: 28 quadros em 327 s
+pedaço 2/8: 28 quadros em 328 s
+pedaço 3/8: 28 quadros em 409 s
+pedaço 4/8: 28 quadros em 410 s
+pedaço 5/8: 28 quadros em 329 s
+pedaço 6/8: 28 quadros em 326 s
+pedaço 7/8: 28 quadros em 328 s
+pedaço 8/8: 28 quadros em 325 s
