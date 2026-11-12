@@ -1,0 +1,482 @@
+{
+ "versao": 1,
+ "nome": "cena 08",
+ "cenario": "fazenda",
+ "hora": "dia",
+ "mangueira": false,
+ "duracao": 18.6,
+ "audio": null,
+ "elenco": [
+  {
+   "uid": "timbu",
+   "boneco": "timbu",
+   "nome": "Timbu"
+  },
+  {
+   "uid": "poe_mesa",
+   "boneco": "poe_mesa",
+   "nome": "Põe-Mesa"
+  },
+  {
+   "uid": "barbicha",
+   "boneco": "barbicha",
+   "nome": "Barbicha"
+  }
+ ],
+ "marcas": {
+  "timbu": [
+   {
+    "t": 0,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.35,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.7,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.15,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.5,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.9,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 12.15,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 12.5,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 13.75,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 14.1,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 14.5,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 45
+    }
+   },
+   {
+    "t": 16.65,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 45
+    }
+   },
+   {
+    "t": 17,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120,
+     "cabeca_inclina": 10
+    }
+   },
+   {
+    "t": 17.25,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 1.06,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120
+    },
+    "semPassos": true
+   },
+   {
+    "t": 17.55,
+    "x": 2.34,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120,
+     "cabeca_inclina": 10
+    }
+   }
+  ],
+  "poe_mesa": [
+   {
+    "t": 0,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.35,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.7,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.15,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.5,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 10.9,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 12.15,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 12.5,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 13.75,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 14.1,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 14.5,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 16.65,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 17,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 17.25,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 17.55,
+    "x": 0.36,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   }
+  ],
+  "barbicha": [
+   {
+    "t": 0,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 5.35,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 5.7,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 10.15,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 10.5,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 10.9,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 12.15,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 12.5,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 13.75,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 14.1,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 14.5,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 16.65,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 17,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 17.25,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   },
+   {
+    "t": 17.55,
+    "x": -1.98,
+    "y": 0.6,
+    "z": 0.28,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   }
+  ]
+ },
+ "falas": [
+  {
+   "uid": "barbicha",
+   "ini": 5.8,
+   "fim": 10.4
+  },
+  {
+   "uid": "poe_mesa",
+   "ini": 11,
+   "fim": 14
+  },
+  {
+   "uid": "timbu",
+   "ini": 14.6,
+   "fim": 18.2
+  }
+ ]
+}
