@@ -1,0 +1,10 @@
+pedaço 1/10: 28 quadros em 417 s
+pedaço 2/10: 28 quadros em 331 s
+pedaço 3/10: 28 quadros em 201 s
+pedaço 4/10: 28 quadros em 335 s
+pedaço 5/10: 28 quadros em 199 s
+pedaço 6/10: 28 quadros em 423 s
+pedaço 7/10: 28 quadros em 330 s
+pedaço 8/10: 28 quadros em 417 s
+pedaço 9/10: 28 quadros em 218 s
+pedaço 10/10: 25 quadros em 374 s
