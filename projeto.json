@@ -1,0 +1,585 @@
+{
+ "versao": 1,
+ "nome": "cena 06",
+ "cenario": "fazenda",
+ "hora": "noite",
+ "mangueira": false,
+ "duracao": 17.9,
+ "audio": null,
+ "elenco": [
+  {
+   "uid": "timbu",
+   "boneco": "timbu",
+   "nome": "Timbu"
+  },
+  {
+   "uid": "poe_mesa",
+   "boneco": "poe_mesa",
+   "nome": "Põe-Mesa"
+  },
+  {
+   "uid": "caio",
+   "boneco": "caio",
+   "nome": "Caio"
+  },
+  {
+   "uid": "dona_filo",
+   "boneco": "dona_filo",
+   "nome": "Dona Filó"
+  }
+ ],
+ "marcas": {
+  "timbu": [
+   {
+    "t": 0,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 3.65,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 4,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 6.35,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 6.7,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 8.85,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 9.2,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 9.5,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 11.95,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 12.3,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 15.05,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 15.4,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   },
+   {
+    "t": 15.6,
+    "x": -2.7,
+    "y": 0.6,
+    "z": 0,
+    "giro": 35,
+    "mov": {}
+   }
+  ],
+  "poe_mesa": [
+   {
+    "t": 0,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 3.65,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 4,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 6.35,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 6.7,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 8.85,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 9.2,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 9.5,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 11.95,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 12.3,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 15.05,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 15.4,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 15.6,
+    "x": -0.72,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   }
+  ],
+  "caio": [
+   {
+    "t": 0,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 3.65,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 4,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 6.35,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 6.7,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 8.85,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 9.2,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 9.5,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0.15,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 9.8,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 11.95,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 12.3,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0.15,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 12.6,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 15.05,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 15.4,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0.15,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   },
+   {
+    "t": 15.6,
+    "x": 3.42,
+    "y": 0.6,
+    "z": 0.15,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 110,
+     "braco_d_levanta": 110
+    },
+    "semPassos": true
+   }
+  ],
+  "dona_filo": [
+   {
+    "t": 0,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 3.65,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 4,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 6.35,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 6.7,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 8.85,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 9.2,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 80,
+     "braco_d_frente": 45
+    }
+   },
+   {
+    "t": 9.5,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 80,
+     "braco_d_frente": 45
+    }
+   },
+   {
+    "t": 11.95,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 80,
+     "braco_d_frente": 45
+    }
+   },
+   {
+    "t": 12.3,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 80,
+     "braco_d_frente": 45
+    }
+   },
+   {
+    "t": 15.05,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_d_levanta": 80,
+     "braco_d_frente": 45
+    }
+   },
+   {
+    "t": 15.4,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "cabeca_sim": -12,
+     "braco_d_frente": 60,
+     "braco_d_levanta": 20
+    }
+   },
+   {
+    "t": 15.6,
+    "x": 1.98,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "cabeca_sim": -12,
+     "braco_d_frente": 60,
+     "braco_d_levanta": 20
+    }
+   }
+  ]
+ },
+ "falas": [
+  {
+   "uid": "dona_filo",
+   "ini": 4.1,
+   "fim": 6.8
+  },
+  {
+   "uid": "caio",
+   "ini": 6.8,
+   "fim": 9.1
+  },
+  {
+   "uid": "dona_filo",
+   "ini": 9.6,
+   "fim": 12.4
+  },
+  {
+   "uid": "poe_mesa",
+   "ini": 12.4,
+   "fim": 15.5
+  },
+  {
+   "uid": "dona_filo",
+   "ini": 15.5,
+   "fim": 17.9
+  }
+ ]
+}
