@@ -1,0 +1,294 @@
+{
+ "versao": 1,
+ "nome": "cena 09",
+ "cenario": "fazenda",
+ "hora": "dia",
+ "mangueira": false,
+ "duracao": 18.4,
+ "audio": null,
+ "elenco": [
+  {
+   "uid": "timbu",
+   "boneco": "timbu",
+   "nome": "Timbu"
+  },
+  {
+   "uid": "poe_mesa",
+   "boneco": "poe_mesa",
+   "nome": "Põe-Mesa"
+  }
+ ],
+ "marcas": {
+  "timbu": [
+   {
+    "t": 0,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 0.4,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.55,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 5.9,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 6.3,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 7.75,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {}
+   },
+   {
+    "t": 8.1,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 45
+    }
+   },
+   {
+    "t": 11.75,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 45
+    }
+   },
+   {
+    "t": 12.1,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120,
+     "cabeca_inclina": 10
+    }
+   },
+   {
+    "t": 14.75,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120,
+     "cabeca_inclina": 10
+    }
+   },
+   {
+    "t": 15.1,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 16.15,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 16.5,
+    "x": 1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": -25,
+    "mov": {
+     "braco_e_levanta": 120,
+     "braco_d_levanta": 120,
+     "cabeca_inclina": 10
+    }
+   }
+  ],
+  "poe_mesa": [
+   {
+    "t": 0,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {}
+   },
+   {
+    "t": 0.4,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 5.55,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_d_levanta": 50,
+     "braco_d_frente": 20
+    }
+   },
+   {
+    "t": 5.9,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 6.3,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 7.75,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 8.1,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 11.75,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 12.1,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 14.75,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 15.1,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 16.15,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "cabeca_inclina": 18
+    }
+   },
+   {
+    "t": 16.5,
+    "x": -1.08,
+    "y": 0.6,
+    "z": 0,
+    "giro": 25,
+    "mov": {
+     "braco_e_levanta": 140,
+     "braco_d_levanta": 140
+    }
+   }
+  ]
+ },
+ "falas": [
+  {
+   "uid": "poe_mesa",
+   "ini": 0.5,
+   "fim": 5.8
+  },
+  {
+   "uid": "timbu",
+   "ini": 6.4,
+   "fim": 16.4
+  }
+ ]
+}
